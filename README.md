@@ -28,6 +28,21 @@ It is designed as a hands-on project to practice Linux system administration tas
 
 The script provides a menu-driven interface like this:
 
+User Management Menu
+
+Add User
+Modify User
+Delete User
+List Users
+Disable User
+Enable User
+Change Password
+Add Group
+Modify Group
+Delete Group
+List Groups
+Exit
+
 
 ---
 
