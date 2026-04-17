@@ -1,11 +1,10 @@
 # ITI-Bash-Script-Project
-# 🐧 Linux User & Group Management Tool (Bash + Whiptail)
+## 📖 Overview
 
-This project is a simple interactive Bash script that helps manage users and groups on a Linux system using a text-based interface built with `whiptail`.
+I built this project to practice Linux system administration using Bash scripting. Instead of running commands manually, I created a menu-driven tool using `whiptail` to make user and group management easier and more organized.
 
-It is designed as a hands-on project to practice Linux system administration tasks similar to those required in RHCSA.
+The script combines multiple administrative tasks into one interface, making it faster to manage users, groups, and passwords.
 
----
 
 ## 🚀 Features
 
@@ -28,20 +27,8 @@ It is designed as a hands-on project to practice Linux system administration tas
 
 The script provides a menu-driven interface like this:
 
-User Management Menu
+<img width="1089" height="776" alt="image" src="https://github.com/user-attachments/assets/aef069e9-0332-4f61-8fe8-952299fe8ba0" />
 
-Add User
-Modify User
-Delete User
-List Users
-Disable User
-Enable User
-Change Password
-Add Group
-Modify Group
-Delete Group
-List Groups
-Exit
 
 
 ---
